@@ -46,6 +46,7 @@ AI Engineer focused on <b>Agentic AI</b>, <b>Machine Learning</b>, <b>Computer V
 ![R](https://img.shields.io/badge/-R-000?style=for-the-badge&logo=r)
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI_Agents_SDK-000?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/-RAG-000?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/-MCP-000?style=for-the-badge)
