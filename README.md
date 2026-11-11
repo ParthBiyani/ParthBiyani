@@ -165,7 +165,7 @@ Automates internship discovery, relevance ranking and application tracking acros
 
 - 📄 **QAHM: A Quality-Aware Hybrid Detection-Density Framework for Multi-Object Counting in Occluded Environments** — Research paper accepted in **IEEE ICSIT 2026**.
 - 🥈 **eVTOL Design Challenge (by Vertical Flight Society, sponsered by AIRBUS)** — Global 2nd Runner-up, #1 in India, Best New Entrant (Undergraduate).
-- 📱 **Lead App Developer** — Built production Flutter applications for education and business workflows.
+- 📱 **16+ Medals** won in ML competitions hosted by Y Combinator backed startup.
 </p>
 
 </td>
