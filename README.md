@@ -110,7 +110,7 @@ AI Engineer focused on <b>Agentic AI</b>, <b>Machine Learning</b>, <b>Computer V
 ### 🧠 ProjectMind
 ---
 
-**Long-Term Memory Platform for AI Agents**
+**Long-Term Memory Layer for AI Agents**
 
 Production-ready memory platform that continuously captures project knowledge, enabling semantic retrieval and memory-aware reasoning across long-running AI projects.
 
